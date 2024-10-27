@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|c:\\users\\nerf1208\\desktop\\own games\\unity\\2d\\projecttrashcat\\assets\\scripts\\player\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerinputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|c:\\users\\nerf1208\\desktop\\own games\\unity\\2d\\projecttrashcat\\assets\\scripts\\player\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontrols.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\assets\\scripts\\inv_items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv_items\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\assets\\scripts\\manager\\adventurescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\adventurescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\assets\\scripts\\inv_items\\itemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv_items\\itemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\assets\\scripts\\inv_items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DB1F1B-C3B1-F4D3-7A32-1F7FD9F44B83}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inv_items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Player\\PlayerInputHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerInputHandler.cs",
+              "ToolTip": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Player\\PlayerInputHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerInputHandler.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAADwv0gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:08:34.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdventureScript.cs",
+              "DocumentMoniker": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Manager\\AdventureScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\AdventureScript.cs",
+              "ToolTip": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Manager\\AdventureScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\AdventureScript.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAADwvzcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:33:04.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Inv_Items\\ItemComponent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inv_Items\\ItemComponent.cs",
+              "ToolTip": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Inv_Items\\ItemComponent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inv_Items\\ItemComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:33:53.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerControls.cs",
+              "DocumentMoniker": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Player\\PlayerControls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerControls.cs",
+              "ToolTip": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Player\\PlayerControls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerControls.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv1gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:32:55.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Inv_Items\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inv_Items\\Item.cs",
+              "ToolTip": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Inv_Items\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inv_Items\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:39:39.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Inv_Items\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inv_Items\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Nerf1208\\Desktop\\Own Games\\Unity\\2D\\ProjectTrashcat\\Assets\\Scripts\\Inv_Items\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inv_Items\\Inventory.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv7UAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:39:38.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
